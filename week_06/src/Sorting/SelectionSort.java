@@ -38,6 +38,7 @@ public class SelectionSort {
         System.out.println("Sesudah Selection Sort");  
         for(int i:arr1){  
             System.out.print(i+" ");  
+            
         }  
     }  
     
